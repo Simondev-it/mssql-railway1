@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "ACCEPT_EULA": "Y",
+      "SA_PASSWORD": "YourStrong!Passw0rd"
+    }
+  },
+  "deploy": {
+    "startCommand": "/opt/mssql/bin/sqlservr"
+  }
+}
