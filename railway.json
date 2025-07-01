@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "ACCEPT_EULA": "Y",
-      "SA_PASSWORD": "YourStrong!Passw0rd"
+      "SA_PASSWORD": "Duonggaming1@"
     }
   },
   "deploy": {
